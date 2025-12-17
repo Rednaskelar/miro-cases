@@ -93,7 +93,8 @@ See the [LICENSE](LICENSE) file for details.
 - The SlimeVR community for their incredible open-source work
 - All contributors to the Smol Slime project
 - The VR full-body tracking community
-- And my good friend Redele for the original Miro cases and for being so patient with me
+- Original version of the quick release hooks by [Kurzaq](https://www.thingiverse.com/thing:6178909)
+- **And my good friend Redele for the original Miro cases and for being so patient with me**
 
 ---
 
