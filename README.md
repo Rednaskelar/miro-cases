@@ -1,4 +1,4 @@
-# Miro Cases
+# Stacked Miro Cases
 
 ## **[Available now at https://spiro.ooo/](https://spiro.ooo/)**
 
@@ -48,7 +48,7 @@ Smol Slimes (also known as nRF Trackers) are a newer generation of SlimeVR track
 These cases are designed for Smol Stacked SlimeVR builds, which typically include:
 
 - **MCU**: SuperMini NRF52840
-- **IMU**: Various supported sensors (Primarily ICM-45686)
+- **IMU**: Various supported sensors (Primarily ICM-45686/LSM6DSV)
 - **Battery**: Small LiPo cells appropriate for the case dimensions (401230)
 
 ## 🔧 Assembly 🔧
